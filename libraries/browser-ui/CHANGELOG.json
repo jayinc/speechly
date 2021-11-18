@@ -1,0 +1,26 @@
+{
+  "name": "@speechly/browser-ui",
+  "entries": [
+    {
+      "version": "5.0.2",
+      "tag": "@speechly/browser-ui_v5.0.2",
+      "date": "Thu, 18 Nov 2021 13:34:31 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Changed url references to unpkg.com. rushx start will now start dev server in watch mode."
+          },
+          {
+            "comment": "5.0.1 published with production build."
+          },
+          {
+            "comment": "Added static asset (index.html) watch for better dev experience"
+          },
+          {
+            "comment": "Exposed --widget-shadow variable. MUI theme improvements."
+          }
+        ]
+      }
+    }
+  ]
+}

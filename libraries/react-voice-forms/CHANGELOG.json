@@ -2,6 +2,21 @@
   "name": "@speechly/react-voice-forms",
   "entries": [
     {
+      "version": "1.1.2",
+      "tag": "@speechly/react-voice-forms_v1.1.2",
+      "date": "Thu, 18 Nov 2021 13:34:31 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Added theme and component css files to 'css' folder in package."
+          },
+          {
+            "comment": "Exposed --widget-shadow variable. M"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.4",
       "tag": "@speechly/react-voice-forms_v1.0.4",
       "date": "Mon, 18 Oct 2021 21:09:13 GMT",
